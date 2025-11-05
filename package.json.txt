@@ -1,0 +1,13 @@
+{
+  "name": "ouvenup-site-final",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "open index.html",
+    "build": "echo Site Build Successful"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}

@@ -1,0 +1,15 @@
+Links do Google Forms Atualizados no Site OuveNup
+==================================================
+
+URL do Formulário: https://forms.gle/kFCpcFREYqEM9rU6A
+
+Páginas Atualizadas:
+1. Home (/): Botão "Registre Sua Demanda Aqui" redireciona para /registro
+2. Registro (/registro): Botão "Acessar Formulário de Registro" abre o Google Forms em nova aba
+
+Configuração do Link:
+- Target: _blank (abre em nova aba)
+- Rel: noopener noreferrer (segurança)
+
+Status: ✅ Links verificados e funcionais
+Data: 2025-11-04
